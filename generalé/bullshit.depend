@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1447826254 source:c:\users\hozu9\desktop\c++ assignment\bullshit\filesandobjectsyt.cpp
+	"stdafx.h"
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	"person.h"
+
+1447826018 c:\users\hozu9\desktop\c++ assignment\bullshit\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1431358830 c:\users\hozu9\desktop\c++ assignment\bullshit\person.h
+	<iostream>
+
+1447826270 source:c:\users\hozu9\desktop\c++ assignment\bullshit\person.cpp
+	"stdafx.h"
+	"person.h"
+
+1431355218 source:c:\users\hozu9\desktop\c++ assignment\bullshit\stdafx.cpp
+	"stdafx.h"
+
